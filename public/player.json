@@ -1,0 +1,153 @@
+[
+    {
+      "playerId": 1,
+      "name": "Tamim Iqbal",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/MkqMXFy/tamim-iqbal-1-scaled.webp",
+      "role": "Batsman",
+      "battingType": "Left-hand bat",
+      "bowlingType": null,
+      "biddingPrice": 1500000
+    },
+    {
+      "playerId": 2,
+      "name": "Najmul Hasan Shanto",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/wMfn8jb/dea5f-17077459844453-1920.webp",
+      "role": "Batsman",
+      "battingType": "Left-hand bat",
+      "bowlingType": null,
+      "biddingPrice": 1400000
+    },
+    {
+      "playerId": 3,
+      "name": "Kyle Mayers",
+      "country": "West Indies",
+      "image": "https://i.ibb.co.com/h2WYxFw/skysports-kyle-mayers-west-indies-5264807.jpg",
+      "role": "All-rounder",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm medium",
+      "biddingPrice": 1700000
+    },
+    {
+      "playerId": 4,
+      "name": "Mushfiqur Rahim",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/q09LSPR/Mushfiqur-Rahim-16ae0504644-large.jpg",
+      "role": "Wicket-keeper Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": null,
+      "biddingPrice": 1600000
+    },
+    {
+      "playerId": 5,
+      "name": "Mahmudullah",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/7NHZVd1/mahmudullah-v-england-adelaide.webp",
+      "role": "All-rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm off-spin",
+      "biddingPrice": 1500000
+    },
+    {
+      "playerId": 6,
+      "name": "Towhid Hridoy",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/wQHF2xY/image13750.webp",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": null,
+      "biddingPrice": 1200000
+    },
+    {
+      "playerId": 7,
+      "name": "Dawid Malan",
+      "country": "England",
+      "image": "https://i.ibb.co.com/TvpqK1t/dawid-malan-hundred.jpg",
+      "role": "Batsman",
+      "battingType": "Left-hand bat",
+      "bowlingType": null,
+      "biddingPrice": 1800000
+    },
+    {
+      "playerId": 8,
+      "name": "Jahandad Khan",
+      "country": "Pakistan",
+      "image": "https://i.ibb.co.com/VVHW0wH/maxresdefault.jpg",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast",
+      "biddingPrice": 1000000
+    },
+    {
+      "playerId": 9,
+      "name": "Tanvir Islam",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/6m7rVhW/tanvir-picked-up-13-wickets-in.webp",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Left-arm orthodox",
+      "biddingPrice": 1100000
+    },
+    {
+      "playerId": 10,
+      "name": "Ripon Mondol",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/7kn790x/Ripon-Mondol-jpeg.webp",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm medium-fast",
+      "biddingPrice": 900000
+    },
+    {
+      "playerId": 11,
+      "name": "Taijul Islam",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/PWNp2P2/357577.webp",
+      "role": "Bowler",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Left-arm orthodox",
+      "biddingPrice": 1200000
+    },
+    {
+      "playerId": 12,
+      "name": "Rishad Hossain",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/3MfkS75/377931-6.webp",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm leg-spin",
+      "biddingPrice": 1000000
+    },
+    {
+      "playerId": 13,
+      "name": "Shaheen Afridi",
+      "country": "Pakistan",
+      "image": "https://i.ibb.co.com/cw507hJ/OIP.jpg",
+      "role": "Bowler",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Left-arm fast",
+      "biddingPrice": 2000000
+    },
+    {
+      "playerId": 14,
+      "name": "Ebadot Hossain",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/LgR0cTs/345199.webp",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast",
+      "biddingPrice": 1100000
+    },
+    {
+      "playerId": 15,
+      "name": "Faheem Ashraf",
+      "country": "Pakistan",
+      "image": "https://i.ibb.co.com/tLM5sxG/fahim.jpg",
+      "role": "All-rounder",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm medium",
+      "biddingPrice": 1300000
+    }
+  ]
+  
